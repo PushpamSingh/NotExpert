@@ -1,0 +1,37 @@
+[
+    {
+        "icon":"FaJava",
+        "h1":"JAVA+DSA (one of the best)",
+        "p":"Data structure and Algorithm is applied in all software dev. DSA is the building block of the software development process",
+        "material":"https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+        "roadmap":"#"
+    },
+    {
+        "icon":"CgWebsite",
+        "h1":"WEB DEVLOPMENT",
+        "p":"Web development refers to the creating,and maintaining of websites.It includes web design,web programming.",
+        "material":"https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
+        "roadmap":"#"
+    },
+    {
+        "icon":"AiOutlinePython",
+        "h1":"Complete PYTHON",
+        "p":"Python has a simple syntax. Python has syntax that allows developers to write programs with fewer lines",
+        "material":"https://www.youtube.com/watch?v=gfDE2a7MKjA",
+        "roadmap":"#"
+    },
+    {
+        "icon":"GoDatabase",
+        "h1":"DBMS (Best)",
+        "p":"A database management system is essentially a computerized data-keeping system in the database.",
+        "material":"https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
+        "roadmap":"#"
+    },
+    {
+        "icon":"CiDesktop",
+        "h1":"Operating System (Best)",
+        "p":"An operating system (OS) is the program that, after being initially loaded into the computer by a boot program.",
+        "material":"https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG",
+        "roadmap":"#"
+    }
+]

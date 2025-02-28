@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "h2":"At beggining time don't make your work very hectic make a proper schedule and try to follow it because even you study for less time but consistency is more important."
+    },
+    {
+        "id":"2",
+        "h2":"Don't be limited to your studies only explore other things and also try to participate in online events and contests like github campus expert and many more.",
+        "a":"github campus expert",
+        "link":"https://github.com/education/students"
+    },
+    {
+        "id":"3",
+        "h2":"Never copy code from google without understanding, you can take hint and do by your own."
+    },
+    {
+        "id":"4",
+        "h2":"If you have any doubt related to a program then don't ask for the code instead ask for the approach and do by yourself."
+    },
+    {
+        "id":"5",
+        "h2":"Never take aptitude forgranted, because the first round in any interview is the aptitude round, so be prepared with aptitude subjects also."
+    },
+    {
+        "id":"6",
+        "h2":"Don't understimate the college semester exams..you must maintain a good CGPA during your semester exams, because it will help in your further studies."
+    },
+    {
+        "id":"7",
+        "h2":"Don't take interviews very casually, be prepared with your professional personality."
+    }
+]

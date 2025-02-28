@@ -1,0 +1,32 @@
+[
+    {
+        "id":"ac1",
+        "icon":"FiBookOpen",
+        "h1":"2000",
+        "p":"Students"
+
+    },
+    {
+        "id":"ac2",
+        "icon":"LuUsers",
+        "h1":"20",
+        "p":"Courses"
+
+    },
+    {
+        "id":"ac3",
+        "icon":"FiCheckCircle",
+        "h1":"95",
+        "per":"%",
+        "p":"Success Rate"
+
+    },
+    {
+        "id":"ac4",
+        "icon":"FiAward",
+        "h1":"5",
+        "p":"Years Experience"
+
+    }
+
+]

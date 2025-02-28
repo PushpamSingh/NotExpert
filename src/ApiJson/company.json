@@ -1,0 +1,43 @@
+[
+    {
+        "name":"TCS",
+        "link":"https://www.tcs.com/"
+    },
+    {
+        "name":"SAP",
+        "link":"https://www.sap.com/india/index.html"
+    },
+    {
+        "name":"L&T",
+        "link":"https://www.larsentoubro.com/"
+    },
+    {
+        "name":"HCL",
+        "link":"https://www.hcltech.com/"
+    },
+    {
+        "name":"TML",
+        "link":"https://www.techmahindra.com/?f=3485840459"
+    },
+    {
+        "name":"Wipro",
+        "link":"https://www.wipro.com/"
+    },
+    {
+        "name":"Deloitte",
+        "link":"https://www2.deloitte.com/us/en.html"
+    },
+    {
+        "name":"Infosys",
+        "link":"https://www.infosys.com/"
+    },
+    {
+        "name":"Accenture",
+        "link":"https://www.accenture.com/us-en"
+    },
+    {
+        "name":"IBM",
+        "link":"https://www.ibm.com/in-en"
+    }
+ 
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "h2":"Learn a programming language at very first,either it could be c++ or java"
+    },
+    {
+        "id":"2",
+        "h2":"Do enough question practice while learning,you can use some good coding plateform like HackerRank",
+        "a":"HackerRank",
+        "link":"https://www.hackerrank.com/dashboard"
+    },
+    {
+        "id":"3",
+        "h2":"Dedicate minimum one to two hour in a day for question,it will boost up your problem solving skill"
+    },
+    {
+        "id":"4",
+        "h2":"you can set a challenge that i will solve minimum two question everyday at any cost"
+    },
+    {
+        "id":"5",
+        "h2":"Read Interview experience of other candidate to get the idea how the interview happen and prepare according to that. read from",
+        "a":"here",
+        "link":"https://www.geeksforgeeks.org/company-interview-corner/"
+    },
+    {
+        "id":"6",
+        "h2":"Participate often in online coding contests which are organised by some coding plateforms like",
+        "a":"codechef",
+        "link":"https://www.codechef.com/"
+    },
+    {
+        "id":"7",
+        "h2":"If you are learning devlopement then do project based learning means you learn technologies by applying concepts by your own"
+    },
+    {
+        "id":"8",
+        "h2":"Make good connection with great forks using Linkedin and twitter"
+    },
+    {
+        "id":"9",
+        "h2":"Also work on your communication skill"
+    }
+]

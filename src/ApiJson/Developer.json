@@ -1,0 +1,56 @@
+[
+    {
+        "id":3,
+        "name":"Nikita Pathak",
+        "img":"https://notexpert.netlify.app/images/nikita.png",
+        "introduction":"Hii👋 I am Nikita, a confident student of bca and I love to participate in every type of events and always ready to help people by providing value.I helped NOTExpert by providing content for the web and gave some idea to transform the NOTExpert.",
+        "linkedIn":"https://www.linkedin.com/in/nikita-pathak-b92a79248/",
+        "email":"nikitapathak050@gmail.com",
+        "Instagram":"https://www.instagram.com/its_nikita_pathak/?igshid=YmMyMTA2M2Y%3D"
+    },
+    {
+        "id":1,
+        "name":"ankit anand",
+        "img":"https://notexpert.netlify.app/images/anand.png",
+        "introduction":"Hii👋 I am Ankit anand, a confident student of IT and I am interested in programming and solving complicated problem with my programming skills.I helped NOTExpert by adding my ideas for the layout of the web and by adding some content to the web.",
+        "linkedIn":"https://www.linkedin.com/in/ankit-anand-b49a40244/",
+        "email":"ankit2018loh@gmail.com",
+        "twitter":"https://twitter.com/ANKITAN90/"
+    },
+    {
+        "id":2,
+        "name":"Afifa Naureen",
+        "img":"https://notexpert.netlify.app/images/afifa.png",
+        "introduction":"Hii👋 I am Afifa, a confident student of IT and I love to transform my imagination into real world softwares, always ready to help needy forks.I helped NOTExpert by providing notes for the content and also helped in the launching of NOTExpert.",
+        "linkedIn":"https://www.linkedin.com/in/afifa-naureen-b42b92232/",
+        "email":"afifanaureen@gmail.com",
+        "Instagram":"https://www.instagram.com/itz_afifa_321/"
+    },
+    {
+        "id":4,
+        "name":"antanu thakur",
+        "img":"https://notexpert.netlify.app/images/antanu.png",
+        "introduction":"Hii👋 I am Antanu Thakur, a confident student of IT and I am interested in testing wep pages and designing the interesting designs.I helped NOTExpert by desining a new good header and the testing process of complete web pages.",
+        "linkedIn":"https://www.linkedin.com/in/antanu-thakur-090b25140/",
+        "email":"antanukumar9@gmail.com",
+        "twitter":"https://www.instagram.com/antanuthakur/"
+    },
+    {
+        "id":5,
+        "name":"pushpam singh",
+        "img":"./Pushpamsingh.png",
+        "introduction":"Hey 👋, I'm Pushpam Singh, skilled in C++ and Data Structures & Algorithms. I'm also a web developer creating dynamic and user-friendly web-app. Recently, I redesigned and developed the UI for NoteExpert to make it look fresh and modern.",
+        "linkedIn":"www.linkedin.com/in/pushpam-kumar-b54444289",
+        "email":"pushpamsingh204@gmail.com",
+        "twitter":"https://x.com/Undrrtd__"
+    },
+    {
+        "id":6,
+        "name":"unknown",
+        "img":"https://notexpert.netlify.app/images/unknown.png",
+        "introduction":"Hii👋 I am unknown, a next person to become the NOTEexpert contributer means, Whoever arrange the missing content like notes and pyq's OR add some good layout for the website will become the next contributer.",
+        "linkedIn":"#",
+        "email":"#",
+        "twitter":"#"
+    }
+]

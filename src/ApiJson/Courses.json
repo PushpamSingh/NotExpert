@@ -1,0 +1,47 @@
+[
+    {
+        "h1":"BCA",
+        "p":"Bachelor of Computer Applications",
+        "li1":"Programming Fundamentals",
+        "li1link":"#",
+        "li2":"Database Management",
+        "li2link":"#",
+        "li3":"Web Development",
+        "li3link":"#",
+        "li4":"Software Engineering",
+        "li4link":"#",
+        "li5":"Computer Networks",
+        "li5link":"#",
+        "access":"BCA"
+    },
+    {
+        "h1":"BSC IT",
+        "p":"Bachelor of Science in Information Technology",
+        "li1":"Data Structures",
+        "li1link":"#",
+        "li2":"Operating Systems",
+        "li2link":"#",
+        "li3":"Network Security",
+        "li3link":"#",
+        "li4":"Cloud Computing",
+        "li4link":"#",
+        "li5":"Mobile Development",
+        "li5link":"#",
+        "access":"BSCIT"
+    },
+    {
+        "h1":"BCS",
+        "p":"Bachelor of Computer Science",
+        "li1":"Algorithms",
+        "li1link":"#",
+        "li2":"Artificial Intelligence",
+        "li2link":"#",
+        "li3":"Machine Learning",
+        "li3link":"#",
+        "li4":"Computer Architecture",
+        "li4link":"#",
+        "li5":"Theory of Computation",
+        "li5link":"#",
+        "access":"BCS"
+    }
+]

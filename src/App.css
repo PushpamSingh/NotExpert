@@ -1,0 +1,61 @@
+.mx-auto{
+    margin: 0 auto;
+}
+.margin{
+    margin: 2.2rem;
+    margin-bottom: 4rem;
+    padding: 2rem;
+}
+.margin2{
+    margin: 0.3rem;
+    padding: 0.7rem;
+}
+.margin-top{
+    margin-top: 1rem;
+}
+.margin-bottum{
+    margin-bottom: 1rem;
+}
+.lg-react-element {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1.5rem;
+    width: 80%;
+    margin: 2.2rem auto;
+    column-width: 150px;
+}
+@media (max-width:995px) {
+    .lg-react-element{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+@media (max-width:570px) {
+    .lg-react-element{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+.m-b-4{
+    margin-bottom: 4rem;
+}
+.m-t-2{
+    margin-top: 2rem;
+}
+.m-b-3{
+    margin-bottom: 2.5rem;
+}
+
+.button-p{
+    padding: 0.8rem 1rem;
+}
+.padding-b{
+    padding-bottom: 4rem;
+}
+.padding{
+    padding: 1.4rem;
+}
+.padding-Notes-b{
+    padding: 0.02rem 0;
+}
+.margin-left{
+    margin-left: 3rem;
+}
