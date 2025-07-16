@@ -17,37 +17,33 @@ export const Developers = () => {
         <div className="w-[40%] max-md:w-[70%] max-sm:w-full group shadow-[2px_2px_6px_gray,-2px_-2px_6px_gray] rounded-2xl m-b-4">
           <div className="flex flex-col gap-4 justify-center items-center button-p">
             <img
-              src="https://notexpert.netlify.app/images/AI.jpg"
-              alt="Ankit Soni"
+              src="./Pushpamsingh.png"
+              alt="PushpamSingh"
               //   width={200}
               className="rounded-full h-[170px] w-[180px]  transition-border duration-700 border-7 border-white group-hover:border-red-600"
             />
-            <h1 className="text-2xl font-[700] text-red-600">ANKIT VERMA</h1>
+            <h1 className="text-2xl font-[700] text-red-600">PUSHPAM KUMAR</h1>
             <p className="text-center text-gray-600">
-              Hii👋 I am Ankit Verma, An enthusiast and passinate about coding
-              and development student of IT stream.. always ready to acquire new
-              skills, love to work in a team.. and goal is to get a good
-              position in Software Industry also add value to the people as much
-              as i can.
+              Hey 👋, I'm Pushpam Singh, skilled in C++ and Data Structures &
+              Algorithms. I'm also a MERN STACK web developer creating dynamic
+              and user-friendly web-app. Recently, I redesigned and developed
+              the UI for NoteExpert to make it look fresh and modern.
             </p>
 
             <div className="flex gap-6">
-              <a href="https://www.linkedin.com/in/ankit-kumar-85aaaa202/" className="">
+              <a
+                href="www.linkedin.com/in/pushpam-kumar-b54444289"
+                className=""
+              >
                 <FaLinkedinIn className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
               </a>
-              <a href="https://twitter.com/Ankitverma10012">
+              <a href="https://x.com/Undrrtd__">
                 <TbBrandTwitter className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
               </a>
-              <a href="https://github.com/ankitkumar6207">
+              <a href="https://github.com/PushpamSingh">
                 <FaGithub className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
               </a>
-              <a href="https://www.facebook.com/profile.php?id=100061507893120">
-                <FaFacebookF className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
-              </a>
-              <a href="https://ankit100.bio.link/">
-                <RiComputerLine className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
-              </a>
-              <a href="mailto:ankitsoni7544@gmail.com">
+              <a href="mailto:pushpamsingh204@gmail.com">
                 <MdOutlineMailOutline className="text-red-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
               </a>
             </div>
@@ -85,9 +81,11 @@ export const Developers = () => {
                         <FaLinkedinIn className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
                       </a>
                       <a href={curr.twitter || curr.Instagram}>
-                        {curr.twitter?
-                         (<TbBrandTwitter className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />)
-                         :<FaInstagram className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />}
+                        {curr.twitter ? (
+                          <TbBrandTwitter className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
+                        ) : (
+                          <FaInstagram className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />
+                        )}
                       </a>
                       <a href={curr.email}>
                         <MdOutlineMailOutline className="text-cyan-600 text-2xl w-full transition-all duration-200 ease-in hover:scale-[1.4]" />

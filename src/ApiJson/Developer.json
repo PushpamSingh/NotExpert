@@ -37,12 +37,12 @@
     },
     {
         "id":5,
-        "name":"pushpam singh",
-        "img":"./Pushpamsingh.png",
-        "introduction":"Hey 👋, I'm Pushpam Singh, skilled in C++ and Data Structures & Algorithms. I'm also a web developer creating dynamic and user-friendly web-app. Recently, I redesigned and developed the UI for NoteExpert to make it look fresh and modern.",
-        "linkedIn":"www.linkedin.com/in/pushpam-kumar-b54444289",
-        "email":"pushpamsingh204@gmail.com",
-        "twitter":"https://x.com/Undrrtd__"
+        "name":"ankit soni",
+        "img":"https://notexpert.netlify.app/images/AI.jpg",
+        "introduction":" Hii👋 I am Ankit Verma, An enthusiast and passinate about coding and development student of IT stream.. always ready to acquire new skills, love to work in a team.. and goal is to get a good position in Software Industry also add value to the people as much as i can.",
+        "linkedIn":"https://www.linkedin.com/in/ankit-kumar-85aaaa202/",
+        "email":"ankitsoni7544@gmail.com",
+        "twitter":"https://twitter.com/Ankitverma10012"
     },
     {
         "id":6,
